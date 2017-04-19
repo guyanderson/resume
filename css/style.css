@@ -1,0 +1,21 @@
+.name{
+  color:green;
+  font-style: oblique;
+  font-weight: 200;
+  font-family: sans-serif;
+}
+.obj {
+  color: red;
+  font-style: italic;
+  font-weight: 300;
+  font-family: cursive;
+}
+.Hobbies{
+  color: teal;
+  font-weight: 50;
+  font-family: serif;
+}
+.About{
+  color: #cc3399;
+  text-align: right;
+}
